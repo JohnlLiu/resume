@@ -1,1 +1,1 @@
-# resume
+https://johnlliu.github.io/resume/
